@@ -8,8 +8,9 @@ What does SOLID stand for?
     I  –  Interface segregation principle
     D  –  Dependency Inversion principle
 
+----
 
-## Single Responsibility Principle (SRP):
+## [Single Responsibility Principle (SRP)](https://github.com/omarhosny206/SOLID-Principles/tree/master/srp):
 > A class should have one and only one reason to change, meaning that a class should have only one job.
 
 ### Why is it useful?
@@ -23,7 +24,7 @@ What does SOLID stand for?
 
 ----
 
-## Open Closed Principle (OCD):
+## [Open Closed Principle (OCP)](https://github.com/omarhosny206/SOLID-Principles/tree/master/ocp):
 > Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 
 ### Why is it useful?
@@ -33,17 +34,17 @@ What does SOLID stand for?
 
 ----
 
-## Liskov Substitution Principle (LSP):
+## [Liskov Substitution Principle (LSP)](https://github.com/omarhosny206/SOLID-Principles/tree/master/lsp):
 > A superclass object should be replaceable with a subclass object without breaking the functionality of the software.
 
 ----
 
-## Interface Segregation Principle (ISP):
+## [Interface Segregation Principle (ISP)](https://github.com/omarhosny206/SOLID-Principles/tree/master/isp):
 > A client should never be forced to implement an interface that it doesn’t use or clients shouldn’t be forced to depend on methods they do not use.
 
 ----
 
-## Dependency Inversion Principle (DIP):
+## [Dependency Inversion Principle (DIP)](https://github.com/omarhosny206/SOLID-Principles/tree/master/dip):
 > Entities must depend on abstractions not on concretions. It states that the high level module must not depend on the low level module, but they should depend on abstractions.
 
 
