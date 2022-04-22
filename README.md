@@ -1,10 +1,10 @@
 # SOLID Principles
 
-### **NOTE:**   every example has two versions: 
+### <font color="red"> **Note**</font>    every example has 2 versions: 
 
 
--   *satisfaction*: which satitsfies the principle. ✅ ✅
-- *violation*: which violates the principle. ❌❌
+-   **satisfaction**: which satitsfies the principle. ✅ ✅
+- **violation**: which violates the principle. ❌❌
 
 ----
 
